@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^$ login.php [L]
+
+Options -Indexes
+
+<FilesMatch "\.(env|sqlite|json)$">
+    Deny from all
+</FilesMatch>   

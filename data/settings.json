@@ -1,0 +1,15 @@
+{
+    "company_name": "My Company",
+    "company_email": "",
+    "company_phone": "",
+    "company_address": "",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "tax_rate": 0,
+    "invoice_prefix": "INV-",
+    "reminder_days": [
+        3,
+        7,
+        14
+    ]
+}
